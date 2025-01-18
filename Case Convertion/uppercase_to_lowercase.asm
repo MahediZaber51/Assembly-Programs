@@ -1,3 +1,5 @@
+ .Model small
+
 ; Data Segment
 .Data
 temp1 db "Enter a Uppercase Character: $"
