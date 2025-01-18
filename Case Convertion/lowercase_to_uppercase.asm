@@ -1,7 +1,7 @@
 ; Data Segment
 .Data
 temp1 db "Enter a Lowercase Character: $"
-temp2 db "Lowercase Character is: "
+temp2 db "Uppercase Character is: "
 temp3 db "?","$"
 
 
